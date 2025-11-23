@@ -1,4 +1,4 @@
-package org.park.reservation.reservation
+package org.park.reservation
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
@@ -6,8 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest
 @SpringBootTest
 class ReservationApplicationTests {
 
-  @Test
-  fun contextLoads() {
-  }
+    @Test
+    fun contextLoads() {
+    }
 
 }

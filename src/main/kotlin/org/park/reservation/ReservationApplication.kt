@@ -1,4 +1,4 @@
-package org.park.reservation.reservation
+package org.park.reservation
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class ReservationApplication
 
 fun main(args: Array<String>) {
-  runApplication<ReservationApplication>(*args)
+    runApplication<ReservationApplication>(*args)
 }

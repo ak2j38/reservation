@@ -1,4 +1,4 @@
-package org.park.reservation.reservation.concert.infrastructure
+package org.park.reservation.concert.infrastructure
 
 import org.springframework.data.jpa.repository.JpaRepository
 

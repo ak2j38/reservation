@@ -1,7 +1,7 @@
-package org.park.reservation.reservation.concert.presentation
+package org.park.reservation.concert.presentation
 
-import org.park.reservation.reservation.concert.application.ConcertFinder
-import org.park.reservation.reservation.concert.presentation.dto.ConcertReservationAvailableDatesResponse
+import org.park.reservation.concert.application.ConcertFinder
+import org.park.reservation.concert.presentation.dto.ConcertReservationAvailableDatesResponse
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

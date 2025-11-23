@@ -1,8 +1,8 @@
-package org.park.reservation.reservation.concert.application
+package org.park.reservation.concert.application
 
-import org.park.reservation.reservation.concert.domain.Concert
-import org.park.reservation.reservation.concert.infrastructure.ConcertQueryRepository
-import org.park.reservation.reservation.exception.DataNotFoundException
+import org.park.reservation.common.exception.DataNotFoundException
+import org.park.reservation.concert.domain.Concert
+import org.park.reservation.concert.infrastructure.ConcertQueryRepository
 import org.springframework.data.repository.findByIdOrNull
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.Transactional

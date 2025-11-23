@@ -1,4 +1,4 @@
-package org.park.reservation.reservation.concert.presentation.dto
+package org.park.reservation.concert.presentation.dto
 
 import java.time.LocalDate
 

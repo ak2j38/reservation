@@ -1,4 +1,4 @@
-package org.park.reservation.reservation.concert.infrastructure
+package org.park.reservation.concert.infrastructure
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue

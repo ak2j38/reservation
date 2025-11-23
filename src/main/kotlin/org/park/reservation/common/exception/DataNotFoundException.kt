@@ -1,4 +1,4 @@
-package org.park.reservation.reservation.exception
+package org.park.reservation.common.exception
 
 class DataNotFoundException(
     val id: Long,

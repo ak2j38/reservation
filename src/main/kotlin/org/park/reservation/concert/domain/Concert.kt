@@ -1,6 +1,6 @@
-package org.park.reservation.reservation.concert.domain
+package org.park.reservation.concert.domain
 
-import org.park.reservation.reservation.concert.infrastructure.ConcertEntity
+import org.park.reservation.concert.infrastructure.ConcertEntity
 
 class Concert(
     val id: Long,
